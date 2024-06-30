@@ -1,0 +1,2 @@
+while task.wait() do
+game:GetService("Players").LocalPlayer.Character.TomatoLauncher.go.fireevent:FireServer()
